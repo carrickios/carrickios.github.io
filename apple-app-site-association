@@ -5,7 +5,7 @@
         "details": [
             {
                 "appID": "P298VA8FBQ.com.hourui.UniversalLinkDemo",
-                "paths": [ "*"]
+                "paths": ["*"]
             }
         ]
     }
