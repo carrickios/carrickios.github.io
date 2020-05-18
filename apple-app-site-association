@@ -5,7 +5,11 @@
         "details": [
             {
                 "appID": "P298VA8FBQ.com.hourui.UniversalLinkDemo",
-                "paths": ["*"]
+                "paths": ["/Universal1/*" ]
+            }
+            {
+                "appID": "P298VA8FBQ.cn.xdf.woxue.zhengyi",
+                "paths": ["/Universal2/*"]
             }
         ]
     }
